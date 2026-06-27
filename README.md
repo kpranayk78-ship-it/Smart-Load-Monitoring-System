@@ -1,6 +1,6 @@
 # Smart Load Monitoring System
 
-## Industrial Internet of Things Mini Project
+## Industrial Internet of Things Project
 
 **Submitted by:**
 **K. Pranay Kumar**
